@@ -26,7 +26,6 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
     By the end of the course, learners will be able to:  
     &emsp;1. Use the Odyssey interface to explore biodiversity datasets  
     &emsp;2. Inspect and assess geographic and molecular metadata consistency 
-    &emsp;3. Apply interactive filters and visualizations to support data discovery  
     
     </br>
     
